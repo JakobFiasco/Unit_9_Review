@@ -14,3 +14,20 @@
 
 /* Validation Styles */
 
+input:focus, select:focus, textarea:focus 
+{background-color: rgb(255, 255, 180);
+}
+
+
+
+.nameBox.phoneBox{
+background-color: rgb(220, 255, 220);
+
+background-image: url(rb_okay.png)
+}
+
+.nameBox.phoneBox{
+   background-color: rgb(255, 230, 230);
+   background-image: url(rb_warning.png)
+}
+
